@@ -1,1 +1,1 @@
-# SimoleChessMaster
+# SimpleChessMaster
